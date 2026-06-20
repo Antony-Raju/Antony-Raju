@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/MCA-St.%20Joseph's%20College%20of%20Engineering%20%26%20Technology-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCA%20Graduate-St.%20Joseph's%20College%20of%20Engineering%20%26%20Technology-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
@@ -34,7 +34,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/PEXkriptonite/Markdown-decorations/main/svg/Right.svg" width="320"/>
 
-I'm an **Aspiring Full-Stack Web Developer** currently pursuing my **MCA at St. Joseph's College of Engineering & Technology, Pala**, with a strong foundation in **Python, Django, React.js, and MySQL**. My engineering approach blends clean software architecture with data-driven decision making — combining **machine learning, customer analytics, and full-stack engineering** into products built to scale.
+I'm a **Full-Stack Web Developer** who recently completed my **MCA at St. Joseph's College of Engineering & Technology, Pala**, with a strong foundation in **Python, Django, React.js, and MySQL**. My engineering approach blends clean software architecture with data-driven decision making — combining **machine learning, customer analytics, and full-stack engineering** into products built to scale.
 
 I specialize in designing **secure, performant web applications** powered by real analytical insight — from **RFM analysis** and **K-Means customer segmentation** to **Market Basket Analysis** for e-commerce intelligence. My work spans the entire software development lifecycle: architecture, implementation, testing, and deployment, always with a **product engineering mindset**.
 
@@ -70,6 +70,15 @@ Open To:
 **Cloud, DevOps & Tooling**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,redhat&theme=dark"/>
+
+**Data Analytics Tools**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 
 </div>
 
@@ -167,6 +176,44 @@ Secure auction platform with live bid updates, automatic auction closure, and wi
 | **Repository** | [Online-Auction-Bidding-System](https://github.com/antonyraju/online-auction-bidding-system) |
 
 Includes an admin panel for product management, user oversight, and transaction tracking.
+
+</details>
+
+<details>
+<summary><b>🏗️ IXL Prime Equipment Trading LLC — Website (Jun 2026)</b></summary>
+<br/>
+
+Designed, developed, hosted, and deployed the official company website for IXL Prime Equipment Trading LLC, based in the UAE — handling the project end-to-end from design through live deployment.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript, Responsive Web Design |
+| **Scale** | Full company website — design to production deployment |
+| **Performance** | Optimized responsive layout across devices |
+| **Security** | Domain configuration and hosting setup managed securely |
+| **Impact** | Live, fully deployed business website for a UAE-based client |
+| **Repository** | [IXL-Prime-Equipment-Trading-Website](https://github.com/antonyraju/ixl-prime-equipment-trading-website) |
+
+Managed the complete website lifecycle — responsive development, domain configuration, hosting setup, and final deployment — delivering a production-ready site for the client.
+
+</details>
+
+<details>
+<summary><b>🏫 Sanjeevan School — Website (Apr 2026)</b></summary>
+<br/>
+
+Designed and developed a responsive school website built for students, parents, and visitors, covering school information, facilities, and a media gallery.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript, Responsive Web Design |
+| **Scale** | School information, facilities, gallery, and contact features |
+| **Performance** | Mobile-responsive layout for all visitor types |
+| **Security** | Standard secure hosting practices |
+| **Impact** | Centralized digital presence for the school community |
+| **Repository** | [Sanjeevan-School-Website](https://github.com/antonyraju/sanjeevan-school-website) |
+
+Built dedicated sections for school information, facilities, gallery, and contact features to serve students, parents, and visitors alike.
 
 </details>
 
