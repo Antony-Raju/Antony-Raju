@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<a href="https://antonyraju.dev"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://antonyraju.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/antonyraju"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:antonyrajumoozhikkattu@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/antonyraju"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -42,6 +42,7 @@ I specialize in designing **secure, performant web applications** powered by rea
 Open To:
   - Full-Stack Developer Roles
   - AI / ML Engineering Roles
+  - Data Analyst Roles
   - Data Analytics Positions
   - Freelance & Collaborative Projects
   - Open Source Contributions
@@ -355,6 +356,7 @@ Exploring:
 Open To:
   - Full-Stack Developer Opportunities
   - AI / ML Engineering Roles
+  - Data Analyst Opportunities
   - Collaborative Open Source Projects
 ```
 
@@ -367,7 +369,7 @@ Open To:
 <a href="mailto:antonyrajumoozhikkattu@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/antonyraju"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/antonyraju"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://antonyraju.dev"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://antonyraju.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
